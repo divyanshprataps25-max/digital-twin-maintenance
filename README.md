@@ -59,6 +59,9 @@ The system outputs:
 ### Failure Risk Graph
 ![Graph](graph_output.png)
 
+## Live Demo
+https://machine-health-digital-twin.streamlit.app/
+
 ### Results
 
 ![Result 1](results1.png)
