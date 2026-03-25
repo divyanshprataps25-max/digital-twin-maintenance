@@ -4,11 +4,9 @@ import pickle
 import random
 import time
 import matplotlib.pyplot as plt
-import os
 
-BASE_DIR = os.path.dirname(__file__)
-model_path = os.path.join(BASE_DIR, "model.pkl")
-model = pickle.load(open(model_path, "rb"))
+# Load model
+model = pickle.load(open("model.pkl", "rb"))
 
 st.title("🔧 Digital Twin: Machine Health Monitoring")
 
