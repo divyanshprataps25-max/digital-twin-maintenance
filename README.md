@@ -51,9 +51,19 @@ The system outputs:
 * Risk level classification
 
 
-## Screenshots
+## Output Screenshots
 
-(Insert screenshots here)
+### User Interface
+![UI](ui.png)
+
+### Failure Risk Graph
+![Graph](graph_output.png)
+
+### Results
+
+![Result 1](results1.png)
+![Result 2](results2.png)
+![Result 3](results3.png)
 
 
 ## Future Work
