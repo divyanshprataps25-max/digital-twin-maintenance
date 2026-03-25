@@ -40,7 +40,8 @@ Run the application:
 ```bash
 streamlit run app.py
 ```
-
+## Live Demo
+https://machine-health-digital-twin.streamlit.app/
 
 ## Results
 
@@ -59,8 +60,6 @@ The system outputs:
 ### Failure Risk Graph
 ![Graph](graph_output.png)
 
-## Live Demo
-https://machine-health-digital-twin.streamlit.app/
 
 ### Results
 
