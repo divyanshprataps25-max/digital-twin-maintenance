@@ -54,7 +54,7 @@ if st.button("Start Simulation"):
         # Show status
         st.write(f"Time {t+1} → Probability: {prob:.2f}")
 
-        if prob > 0.7:
+        if prob > 0.6:
             st.error(" HIGH RISK")
         elif prob > 0.4:
             st.warning(" MEDIUM RISK")
